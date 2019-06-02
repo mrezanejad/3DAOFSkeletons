@@ -64,6 +64,73 @@ The medial surface and other useful datastructures that are by-product of our sk
 
 
 
+## Updating
+Assuming you have not made any local changes to these files, you can update your local code to the newest version with [git pull](https://git-scm.com/docs/git-pull).
+Open a terminal, navigate to your `SalienceScoresForScene/` folder, and run
+```
+git pull
+```
+
+If you have edited any files, `git pull` may throw errors. You can update while keeping your local changes by running:
+```
+git stash
+git pull
+git stash pop
+```
+
+If you are new to git, you can learn more about it [here](https://git-scm.com/doc)
+<br>
+<br>
+
+## References
+If you use the our SalienceScoresForScenes package, we appreciate it if you cite the following papers:
+
+```
+@Article{Hong2017,
+    author={Hong, Sungmin
+    and Fishbaugh, James
+    and Rezanejad, Morteza
+    and Siddiqi, Kaleem
+    and Johnson, Hans
+    and Paulsen, Jane
+    and Kim, Eun Young
+    and Gerig, Guido},
+    title={Subject-Specific Longitudinal Shape Analysis by Coupling Spatiotemporal Shape Modeling with Medial Analysis},
+    journal={Proceedings of SPIE--the International Society for Optical Engineering},
+    year={2017},
+    month={Apr},
+    volume={10133},
+    pages={101331A},
+}
+
+
+```
+
+## Contact
+For any question regarding this package, please contact morteza@cim.mcgill.ca
+
+## License
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+
+
+
+
+
+
+
+
 
 
 
