@@ -101,12 +101,6 @@ year={2017},
 month={Apr},
 volume={10133},
 pages={101331A},
-note={28966430[pmid]},
-note={PMC5617643[pmcid]},
-note={101331A[PII]},
-issn={0277-786X},
-doi={10.1117/12.2254675},
-url={https://www.ncbi.nlm.nih.gov/pubmed/28966430}
 }
 
 
