@@ -57,7 +57,7 @@ To compute the medial surface a 3D object, you can simply run our matlab functio
 
 The medial surface and other useful datastructures that are by-product of our skeletonization algorithm would be computed from `perform_skeletonization.m` (line 19). 
 <br>
-<img src='readme_images/3dmedialaxis.JPG' width=100%/> 
+<img src='readme_images/3dmedialaxis2.JPG' width=100%/> 
 
 
 
