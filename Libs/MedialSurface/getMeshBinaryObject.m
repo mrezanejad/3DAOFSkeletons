@@ -7,10 +7,9 @@ if(strcmp(fileFormat,'vtk'))
     [vertex,face] = read_vtk(FileName);
 elseif(strcmp(fileFormat,'stl'))
     stlFileName = strcat(fileName,'.stl');
-    fv = stlread_version2(stlFileName);
-    face = fv.faces';
-    vertex = fv.vertices';
-%     [face,vertex] = 
+    [tri, ~, ~, ~] = stlread(stlFileName);
+    face = tri.ConnectivityList';
+    vertex = tri.Points';
 else
     surf = SurfStatReadSurf1(FileName);
     vertex = surf.coord;

@@ -3,8 +3,8 @@ close all;
 addpath(genpath('Libs'));
 
 % SET FILE NAME
-fileName = 'demo';
-fileFormat = 'vtk'; % note this should be without '.'
+fileName = 'Dinasaur';
+fileFormat = 'stl'; % note this should be without '.'
 
 
 % Tuning parameters
