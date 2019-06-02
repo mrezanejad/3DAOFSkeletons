@@ -87,20 +87,20 @@ If you use the our SalienceScoresForScenes package, we appreciate it if you cite
 
 ```
 @Article{Hong2017,
-author={Hong, Sungmin
-and Fishbaugh, James
-and Rezanejad, Morteza
-and Siddiqi, Kaleem
-and Johnson, Hans
-and Paulsen, Jane
-and Kim, Eun Young
-and Gerig, Guido},
-title={Subject-Specific Longitudinal Shape Analysis by Coupling Spatiotemporal Shape Modeling with Medial Analysis},
-journal={Proceedings of SPIE--the International Society for Optical Engineering},
-year={2017},
-month={Apr},
-volume={10133},
-pages={101331A},
+    author={Hong, Sungmin
+    and Fishbaugh, James
+    and Rezanejad, Morteza
+    and Siddiqi, Kaleem
+    and Johnson, Hans
+    and Paulsen, Jane
+    and Kim, Eun Young
+    and Gerig, Guido},
+    title={Subject-Specific Longitudinal Shape Analysis by Coupling Spatiotemporal Shape Modeling with Medial Analysis},
+    journal={Proceedings of SPIE--the International Society for Optical Engineering},
+    year={2017},
+    month={Apr},
+    volume={10133},
+    pages={101331A},
 }
 
 
