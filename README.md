@@ -83,7 +83,7 @@ If you are new to git, you can learn more about it [here](https://git-scm.com/do
 <br>
 
 ## References
-If you use the our SalienceScoresForScenes package, we appreciate it if you cite the following papers:
+If you use the our 3DAOFSkeletons package, we appreciate it if you cite the following papers:
 
 ```
 @Article{Hong2017,
