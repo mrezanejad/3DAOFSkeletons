@@ -66,7 +66,7 @@ The medial surface and other useful datastructures that are by-product of our sk
 
 ## Updating
 Assuming you have not made any local changes to these files, you can update your local code to the newest version with [git pull](https://git-scm.com/docs/git-pull).
-Open a terminal, navigate to your `SalienceScoresForScene/` folder, and run
+Open a terminal, navigate to your `3DAOFSkeletons/` folder, and run
 ```
 git pull
 ```
@@ -102,6 +102,25 @@ If you use the our 3DAOFSkeletons package, we appreciate it if you cite the foll
     volume={10133},
     pages={101331A},
 }
+@article{Siddiqi:2002:HS:598432.598510,
+ author = {Siddiqi, Kaleem and Bouix, Sylvain and Tannenbaum, Allen and Zucker, Steven W.},
+ title = {Hamilton-Jacobi Skeletons},
+ journal = {Int. J. Comput. Vision},
+ issue_date = {July-August 2002},
+ volume = {48},
+ number = {3},
+ month = jul,
+ year = {2002},
+ issn = {0920-5691},
+ pages = {215--231},
+ numpages = {17},
+ url = {https://doi.org/10.1023/A:1016376116653},
+ doi = {10.1023/A:1016376116653},
+ acmid = {598510},
+ publisher = {Kluwer Academic Publishers},
+ address = {Norwell, MA, USA},
+ keywords = {2D and 3D skeletons, Hamiltonian systems, eikonal equation, flux and divergence, shape analysis},
+} 
 
 
 ```
